@@ -4,6 +4,12 @@
 
 ## Implementations
 
+### Postgres
+
+```
+$ psql -f postgres/hello_world.sql
+```
+
 ### Ruby
 
 ```
