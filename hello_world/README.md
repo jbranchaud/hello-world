@@ -4,6 +4,12 @@
 
 ## Implementations
 
+### JavaScript
+
+```
+$ node javascript/hello-world.js
+```
+
 ### Postgres
 
 ```
