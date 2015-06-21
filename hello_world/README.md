@@ -4,6 +4,14 @@
 
 ## Implementations
 
+### Java
+
+```
+$ cd java
+$ javac HelloWorld.java
+$ java HelloWorld
+```
+
 ### JavaScript
 
 ```
