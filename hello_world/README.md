@@ -44,3 +44,10 @@ $ psql -f postgres/hello_world.sql
 ```
 $ ruby ruby/hello_world.rb
 ```
+
+### Rust
+
+```
+$ cd rust/hello_world
+$ cargo run
+```
