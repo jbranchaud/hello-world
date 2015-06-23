@@ -4,6 +4,13 @@
 
 ## Implementations
 
+### Clojure
+
+```
+$ cd clojure/hello-world
+$ lein run
+```
+
 ### Go
 
 ```
