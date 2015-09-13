@@ -10,3 +10,10 @@
 $ cd clojure/fizzbuzz
 $ lein run
 ```
+
+### Go
+
+```
+$ cd go
+$ go run fizzbuzz.go
+```
