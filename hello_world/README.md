@@ -47,6 +47,18 @@ $ node javascript/hello-world.js
 $ psql -f postgres/hello_world.sql
 ```
 
+### Racket
+
+```
+$ racket hello_world.racket
+```
+
+or 
+
+```
+$ ./hello_world.racket
+```
+
 ### Ruby
 
 ```
