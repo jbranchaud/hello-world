@@ -41,6 +41,12 @@ $ java HelloWorld
 $ node javascript/hello-world.js
 ```
 
+### Lua
+
+```
+$ lua lua/hello_world.lua
+```
+
 ### Postgres
 
 ```
