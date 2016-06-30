@@ -19,6 +19,14 @@ $ cd clojure/hello-world
 $ lein run
 ```
 
+### Elixir
+
+```
+$ cd ../elixir/hello_world
+$ mix escript.build
+$ ./hello_world
+```
+
 ### Go
 
 ```
